@@ -49,6 +49,5 @@ def construct_dfs():
 
 if __name__ == '__main__':
     df_list = construct_dfs()
-    for df in df_list:
-        print(df)
-        print('-*-*-*-*-')
+    for i in range(len(df_list)):
+        df_list[i].to_csv(f'week_{i + 1}.csv', index = False)
