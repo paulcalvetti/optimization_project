@@ -53,4 +53,4 @@ def construct_dfs():
 if __name__ == '__main__':
     df_list = construct_dfs()
     for i in range(len(df_list)):
-        df_list[i].to_csv(f'week_{i + 1}.csv', index = False)
+        df_list[i].to_csv(f'weekly_game_data/week_{i + 1}.csv', index = False)
