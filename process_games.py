@@ -1,5 +1,6 @@
 import pandas as pd
 import xlrd
+import copy
 
 def get_data():
     df_games = pd.read_excel('nfl_games_all.xlsx', sheet_name='2019 Games')
@@ -13,12 +14,14 @@ def get_data():
     return df_games, df_weekly_list, df_odds, teams
 
 def expand_games(df):
-    df1 = df
-    df1['Team'] = df['Winner']
-    df1['Opponent'] =  df['Loser']
-    df2 = df
-    df2['Team'] = df['Loser']
-    df2['Opponent'] = df['Winner']
+    winners = df['Winner']
+    losers = df['Loser']
+    df1 = copy.copy(df)
+    df1['Team'] = winners
+    df1['Opponent'] = losers
+    df2 = copy.copy(df)
+    df2['Team'] = losers
+    df2['Opponent'] = winners
     return pd.concat([df1,df2])
 
 def add_win_probs(df, df_odds):

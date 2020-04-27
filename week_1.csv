@@ -1,33 +1,33 @@
 Week,Winner,Loser,PtsW,PtsL,Team,Opponent,Win Prob
+1,Green Bay Packers,Chicago Bears,10,3,Green Bay Packers,Chicago Bears,0.5
+1,Tennessee Titans,Cleveland Browns,43,13,Tennessee Titans,Cleveland Browns,0.470588235
+1,Minnesota Vikings,Atlanta Falcons,28,12,Minnesota Vikings,Atlanta Falcons,0.514285714
+1,Philadelphia Eagles,Washington Redskins,32,27,Philadelphia Eagles,Washington Redskins,0.625
+1,Los Angeles Rams,Carolina Panthers,30,27,Los Angeles Rams,Carolina Panthers,0.567567568
+1,Buffalo Bills,New York Jets,17,16,Buffalo Bills,New York Jets,0.482758621
+1,Kansas City Chiefs,Jacksonville Jaguars,40,26,Kansas City Chiefs,Jacksonville Jaguars,0.567567568
+1,Baltimore Ravens,Miami Dolphins,59,10,Baltimore Ravens,Miami Dolphins,0.653846154
+1,Los Angeles Chargers,Indianapolis Colts,30,24,Los Angeles Chargers,Indianapolis Colts,0.571428571
+1,Seattle Seahawks,Cincinnati Bengals,21,20,Seattle Seahawks,Cincinnati Bengals,0.6
+1,Dallas Cowboys,New York Giants,35,17,Dallas Cowboys,New York Giants,0.6
+1,Detroit Lions,Arizona Cardinals,27,27,Detroit Lions,Arizona Cardinals,0.565217391
+1,San Francisco 49ers,Tampa Bay Buccaneers,31,17,San Francisco 49ers,Tampa Bay Buccaneers,0.551724138
+1,New England Patriots,Pittsburgh Steelers,33,3,New England Patriots,Pittsburgh Steelers,0.547619048
+1,New Orleans Saints,Houston Texans,30,28,New Orleans Saints,Houston Texans,0.552631579
+1,Oakland Raiders,Denver Broncos,24,16,Oakland Raiders,Denver Broncos,0.461538462
 1,Green Bay Packers,Chicago Bears,10,3,Chicago Bears,Green Bay Packers,0.5
-1,Tennessee Titans,Cleveland Browns,43,13,Cleveland Browns,Tennessee Titans,0.5294117647058824
-1,Minnesota Vikings,Atlanta Falcons,28,12,Atlanta Falcons,Minnesota Vikings,0.4857142857142857
+1,Tennessee Titans,Cleveland Browns,43,13,Cleveland Browns,Tennessee Titans,0.529411765
+1,Minnesota Vikings,Atlanta Falcons,28,12,Atlanta Falcons,Minnesota Vikings,0.485714286
 1,Philadelphia Eagles,Washington Redskins,32,27,Washington Redskins,Philadelphia Eagles,0.375
-1,Los Angeles Rams,Carolina Panthers,30,27,Carolina Panthers,Los Angeles Rams,0.43243243243243246
-1,Buffalo Bills,New York Jets,17,16,New York Jets,Buffalo Bills,0.5172413793103449
-1,Kansas City Chiefs,Jacksonville Jaguars,40,26,Jacksonville Jaguars,Kansas City Chiefs,0.43243243243243246
-1,Baltimore Ravens,Miami Dolphins,59,10,Miami Dolphins,Baltimore Ravens,0.34615384615384615
-1,Los Angeles Chargers,Indianapolis Colts,30,24,Indianapolis Colts,Los Angeles Chargers,0.42857142857142855
+1,Los Angeles Rams,Carolina Panthers,30,27,Carolina Panthers,Los Angeles Rams,0.432432432
+1,Buffalo Bills,New York Jets,17,16,New York Jets,Buffalo Bills,0.517241379
+1,Kansas City Chiefs,Jacksonville Jaguars,40,26,Jacksonville Jaguars,Kansas City Chiefs,0.432432432
+1,Baltimore Ravens,Miami Dolphins,59,10,Miami Dolphins,Baltimore Ravens,0.346153846
+1,Los Angeles Chargers,Indianapolis Colts,30,24,Indianapolis Colts,Los Angeles Chargers,0.428571429
 1,Seattle Seahawks,Cincinnati Bengals,21,20,Cincinnati Bengals,Seattle Seahawks,0.4
 1,Dallas Cowboys,New York Giants,35,17,New York Giants,Dallas Cowboys,0.4
-1,Detroit Lions,Arizona Cardinals,27,27,Arizona Cardinals,Detroit Lions,0.43478260869565216
-1,San Francisco 49ers,Tampa Bay Buccaneers,31,17,Tampa Bay Buccaneers,San Francisco 49ers,0.4482758620689655
-1,New England Patriots,Pittsburgh Steelers,33,3,Pittsburgh Steelers,New England Patriots,0.4523809523809524
-1,New Orleans Saints,Houston Texans,30,28,Houston Texans,New Orleans Saints,0.4473684210526316
-1,Oakland Raiders,Denver Broncos,24,16,Denver Broncos,Oakland Raiders,0.5384615384615384
-1,Green Bay Packers,Chicago Bears,10,3,Chicago Bears,Green Bay Packers,0.5
-1,Tennessee Titans,Cleveland Browns,43,13,Cleveland Browns,Tennessee Titans,0.5294117647058824
-1,Minnesota Vikings,Atlanta Falcons,28,12,Atlanta Falcons,Minnesota Vikings,0.4857142857142857
-1,Philadelphia Eagles,Washington Redskins,32,27,Washington Redskins,Philadelphia Eagles,0.375
-1,Los Angeles Rams,Carolina Panthers,30,27,Carolina Panthers,Los Angeles Rams,0.43243243243243246
-1,Buffalo Bills,New York Jets,17,16,New York Jets,Buffalo Bills,0.5172413793103449
-1,Kansas City Chiefs,Jacksonville Jaguars,40,26,Jacksonville Jaguars,Kansas City Chiefs,0.43243243243243246
-1,Baltimore Ravens,Miami Dolphins,59,10,Miami Dolphins,Baltimore Ravens,0.34615384615384615
-1,Los Angeles Chargers,Indianapolis Colts,30,24,Indianapolis Colts,Los Angeles Chargers,0.42857142857142855
-1,Seattle Seahawks,Cincinnati Bengals,21,20,Cincinnati Bengals,Seattle Seahawks,0.4
-1,Dallas Cowboys,New York Giants,35,17,New York Giants,Dallas Cowboys,0.4
-1,Detroit Lions,Arizona Cardinals,27,27,Arizona Cardinals,Detroit Lions,0.43478260869565216
-1,San Francisco 49ers,Tampa Bay Buccaneers,31,17,Tampa Bay Buccaneers,San Francisco 49ers,0.4482758620689655
-1,New England Patriots,Pittsburgh Steelers,33,3,Pittsburgh Steelers,New England Patriots,0.4523809523809524
-1,New Orleans Saints,Houston Texans,30,28,Houston Texans,New Orleans Saints,0.4473684210526316
-1,Oakland Raiders,Denver Broncos,24,16,Denver Broncos,Oakland Raiders,0.5384615384615384
+1,Detroit Lions,Arizona Cardinals,27,27,Arizona Cardinals,Detroit Lions,0.434782609
+1,San Francisco 49ers,Tampa Bay Buccaneers,31,17,Tampa Bay Buccaneers,San Francisco 49ers,0.448275862
+1,New England Patriots,Pittsburgh Steelers,33,3,Pittsburgh Steelers,New England Patriots,0.452380952
+1,New Orleans Saints,Houston Texans,30,28,Houston Texans,New Orleans Saints,0.447368421
+1,Oakland Raiders,Denver Broncos,24,16,Denver Broncos,Oakland Raiders,0.538461538
